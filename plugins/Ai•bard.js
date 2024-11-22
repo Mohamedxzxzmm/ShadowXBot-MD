@@ -15,7 +15,7 @@ return conn.reply(m.chat, '🌸 *حدث خطأ غير متوقع*', m, rcanal)
 }}
 
 handler.command = ['بارد']
-handler.help = ['bard']
+handler.help = ['بارد']
 handler.tags = ['ai']
 handler.premium = false
 export default handler
