@@ -12,7 +12,7 @@ await m.react(error)
 await conn.reply(m.chat, `『📣』حدث خطأ غير متوقع.`, m, rcanal)
 }}
 handler.command = ['جيم']
-handler.help = ['gemini']
+handler.help = ['جيم']
 handler.tags = ['ai']
 
 export default handler
